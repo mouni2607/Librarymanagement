@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LibraryManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LibraryManagement.8n94xyxowb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\0223c0b0-7e4a-47b9-819c-2cfd73a8bd8a.jpg",
+      "PackagePath": "staticwebassets\\images\\0223c0b0-7e4a-47b9-819c-2cfd73a8bd8a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\0d756e28-fc72-4250-ba04-1d4cdee7838b.jfif",
+      "PackagePath": "staticwebassets\\images\\0d756e28-fc72-4250-ba04-1d4cdee7838b.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\1be8db7b-90e8-4482-805b-a06dd50118cc.webp",
+      "PackagePath": "staticwebassets\\images\\1be8db7b-90e8-4482-805b-a06dd50118cc.webp"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\28018d1d-c112-468e-9dba-ff119596840c.webp",
+      "PackagePath": "staticwebassets\\images\\28018d1d-c112-468e-9dba-ff119596840c.webp"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\3ea197cd-b922-44f9-953b-afe8ca626b93.jfif",
+      "PackagePath": "staticwebassets\\images\\3ea197cd-b922-44f9-953b-afe8ca626b93.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\46489219-43b4-4d49-8559-91fd3e3cb9b9.jfif",
+      "PackagePath": "staticwebassets\\images\\46489219-43b4-4d49-8559-91fd3e3cb9b9.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\5e5e479a-aacc-43b9-849d-e1948e9b34ad.jpg",
+      "PackagePath": "staticwebassets\\images\\5e5e479a-aacc-43b9-849d-e1948e9b34ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\8e97e193-271f-42aa-ac0a-11cedfb67982.jpg",
+      "PackagePath": "staticwebassets\\images\\8e97e193-271f-42aa-ac0a-11cedfb67982.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\a2d746a9-12a7-4095-9bb1-b99bd1bdd4f4.jfif",
+      "PackagePath": "staticwebassets\\images\\a2d746a9-12a7-4095-9bb1-b99bd1bdd4f4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\aa4c52ba-ad44-4991-86e3-b7a145ffda64.webp",
+      "PackagePath": "staticwebassets\\images\\aa4c52ba-ad44-4991-86e3-b7a145ffda64.webp"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\b0d6ad6e-da32-4992-8077-e36bd54b129a.jfif",
+      "PackagePath": "staticwebassets\\images\\b0d6ad6e-da32-4992-8077-e36bd54b129a.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\c5cd2b18-3a33-496b-bbbf-e6df73b33146.jfif",
+      "PackagePath": "staticwebassets\\images\\c5cd2b18-3a33-496b-bbbf-e6df73b33146.jfif"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\images\\df9d3e43-2348-4805-802d-f7c29630976c.jpg",
+      "PackagePath": "staticwebassets\\images\\df9d3e43-2348-4805-802d-f7c29630976c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LibraryManagement.props",
+      "PackagePath": "build\\LibraryManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LibraryManagement.props",
+      "PackagePath": "buildMultiTargeting\\LibraryManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LibraryManagement.props",
+      "PackagePath": "buildTransitive\\LibraryManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,28 @@
+﻿@model LibraryManagement.Models.ProfileViewModel
+@{
+    ViewData["Title"] = "User Profile";
+}
+
+<div class="container mt-5">
+    <h2>User Profile</h2>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <p><strong>Full Name:</strong> @Model.FullName</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+    <p><strong>Phone:</strong> @Model.Phone</p>
+
+    <div class="d-flex justify-content-start">
+        <!-- Edit Profile Button -->
+        <a asp-action="Update" asp-route-userId="@Model.UserId" class="btn btn-warning me-2">Edit Profile</a>
+
+        <!-- Back to Admin Dashboard Button -->
+        <a asp-action="Index" asp-controller="Admin" class="btn btn-secondary">Back to Admin Dashboard</a>
+    </div>
+
+</div>

@@ -1,0 +1,18 @@
+﻿@model LibraryManagement.Models.ContactMessage
+
+@{
+    ViewData["Title"] = "Contact Us";
+}
+
+<div class="container mt-4">
+    <h1>Contact Us</h1>
+    <p>If you need help or have any questions, feel free to reach out to us:</p>
+
+    <div class="contact-info">
+        <h3>Contact Information</h3>
+        <p>Email: <a href="mailto:@Model.Email">@Model.Email</a></p>
+        <p>Phone: @Model.PhoneNumber</p>
+    </div>
+
+    
+</div>

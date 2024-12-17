@@ -1,0 +1,73 @@
+﻿@model IEnumerable<LibraryManagement.Models.BorrowRecord>
+
+@{
+    ViewData["Title"] = "Borrowing History";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Only render the search form for Admin users -->
+@{
+    var isAdmin = User.IsInRole("Admin");
+}
+
+@if (isAdmin)
+{
+    <!-- Search Form with Button next to the Input (only shown for admins) -->
+    <form method="get" asp-action="History" class="form-inline mb-4">
+        <!-- Added mb-4 for margin bottom -->
+        <div class="form-group d-flex">
+            <label for="searchTerm" class="form-label me-2"></label>
+            <input type="text" id="searchTerm" name="searchTerm" class="form-control me-2"
+                   value="@ViewData["SearchTerm"]" placeholder="Enter book title, borrower name, or email" />
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </form>
+}
+
+<!-- Table without border lines -->
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Book Title</th>
+            <th>Borrower Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Borrow Date</th>
+            <th style="width: 150px;">Due Date</th> <!-- Increased width here -->
+            <th style="width: 150px;">Return Date</th> <!-- Increased width here -->
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var record in Model)
+        {
+            <tr>
+                <td>@record.Book.Title</td>
+                <td>@record.BorrowerName</td>
+                <td>@record.BorrowerEmail</td>
+                <td>@record.Phone</td>
+                <td>@record.BorrowDate.ToString("d")</td>
+                <td>@record.DueDate.ToString("d")</td>
+                <td>
+                    @(record.ReturnDate.HasValue ?
+                        record.ReturnDate.Value.ToString("d") : "Not Returned")
+                </td>
+                <td>
+                    @if (record.IsOverdue)
+                    {
+                        <span class="text-danger">Overdue</span>
+                    }
+                    else
+                    {
+                        <span class="text-success">On Time</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index" asp-controller="Books" class="btn btn-secondary">Back to Books</a>
+</div>
